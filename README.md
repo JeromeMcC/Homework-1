@@ -11,6 +11,10 @@ The aim of this project was to refine the website mock up given to us. The code 
 - Alt tags were add to increase accessibily and search engine optimization.
 - Digital Marketing Image was removed from CSS and relocated to index so alt tag could be applied.
 ```
+## Project Preview
+
+![Horiseon Mock-up image.](./assets/images/HoriseonMockUp.jpg")
+
 
 ##  Project End Goal
 ```
