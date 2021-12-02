@@ -13,7 +13,11 @@ The aim of this project was to refine the website mock up given to us. The code 
 ```
 ## Project Preview
 
-![Horiseon Mock-up image.](./assets/images/HoriseonMockUp.jpg")
+![Horiseon Mock-up image.](./assets/images/HoriseonMockUp.jpg)
+
+Link:[Live URL](https://jeromemcc.github.io/Horiseon-Marketing/)
+
+
 
 
 ##  Project End Goal
